@@ -1,2 +1,2 @@
 # college-Time-Table
-this is the css project using only html and css
+A structured and responsive Academic Time Table for L.N. Mishra Institute of Economic Development and Social Change (LNMI), Patna. This project focuses on displaying complex scheduling data in a clean, readable tabular format.
